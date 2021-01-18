@@ -1,67 +1,75 @@
-<center><h2>简历</h2></center>
-<center>姓名: 高荣基 | 邮箱 : gjlove666@hotmail.com | 毕业时间 : 2020.06 | </center>
-电话: 15848153480 
+### 联系方式
 
-<h3>教育背景</h3>
-<hr/>
-<p aligh="left">内蒙古农业大学</p>  
-<p aligh="right">BS,网络工程专业(学士学位)</p>
+- 邮箱: <gjlove666@hotmail.com>
+- tel: [18503498358](tel://18503498358)
 
-- 校学生会信息部部长<br>
-- 校优秀学生个人<br>
-- GPA 3.54/4.00 (排名 48/332) 
+---
 
-<h3>个人总结</h3>
-<hr/>
-<h3>Life Module</h3>
+### 个人信息
 
-- 喜欢锻炼身体，热爱健身<br>
-- 热衷于自学<br>
-- 与他人一起从事过一些项目工作，也独立承担了一些小型项目<br>
-- 获得了一些竞赛的奖项（ACM，创新与创业类，机器人竞赛等）<br>
-- 希望更大的进步
+ - 高荣基/男/1997 
+ - 普通一本/内蒙古农业大学计算机系 
+ - 博客:个人服务器搭建[Blog](https://hop.grj321.com/) , [Github](https://gaoljhy.github.io/blog) (因为secret alert较多, 暂时转为私有),[CSDN](https://blog.csdn.net/lendq)
+ - Github: <https://github.com/gaoljhy>
+ - 个人主页: <https://hop.grj321.com>
+ - 英文主页: <https://gaoljhy.github.io>
+ - 自学能力较强，热爱运动，富有则责任感
+ - 期望职位：后端开发
 
-<h4>技术 Module</h4>
+----
 
-- MacOS, Linux ,Windows熟练使用,会编写Shell脚本，会进行网络调配，日常三系统切换。<br>
-- 语言 Python/c 熟练， php / Java /C sharp/JavaScript(Node)/Cpp 项目用过 <br>
-- 前端能使用 Bootstrap ,Jquery 框架<br>
-- 后端使用过 Spring Boot、flask、Django 框架，其他框架也能用，不是专精 但是项目中用过，官方手册也通读过<br>
-- 数据库相关：MySQL/SQLite<br>
-- 测试：做过xUnit的单元测试和集成测试，其余都是零散的一些项目测试<br>
-- OS：复现过《30 天自制操作系统》 ,以及课程设计并独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU<br>
+### 简单总结
 
-<h3>实习经历</h3>
-<hr/>
-<h4>蒙牛云计算中心 （ 2018年9月 ~ 2019年9月 ）</h4>
++ 系统：MacOS, Linux ,Windows熟练使用,编写脚本,网络等硬件调配优化，日常三系统切换。 
++ 语言： Python/c 熟练， php / Java /C sharp/JavaScript(Node)/Cpp 用过  
++ 前端框架：  Bootstrap ,Jquery 框架 
++ 后端框架 ： Spring Boot、flask、Django 框架，官方手册通读，其他框架也能快速上手 
++ 数据库相关：MySQL/SQLite/ORM框架(Hibernate， SQLAlchemy等)
++ 小程序：小程序刚出来时写过几个
++ 移动端：做过一些小项目的移动端的原生app，但移动端逆向以及协议处理是强项
++ 硬件：使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等 
++ 运维：配置维护过容器化应用，K8s等集群，使用过openstack。 
++ 测试：xUnit的单元测试和集成测试，其余多数为零散开源项目测试
++ 文档：参与过tensorflow开源文档编写校对，以及wiki社区
++ 插件开发 ：vscode和Firefox的都有做过 
++ 数据结构扎实，基本算法掌握牢固，ACM主力军，刷过Leetcode和一些如杭电的ACM网站，一般有思路半小时解决，没思路就慢慢磕。 
 
-- 面向客户部署的运维实习，负责web服务，MySQL数据库等等部署实现
+复现过《30 天自制操作系统》,以及课程设计中独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU,对计算机整体有一定认识
+
+获奖情况: 全国3个， 省级7个，校级不算，工程做过一些，接过几个外包(签了合同的)。
+
+应用开发独立承担过商城二次开发，问卷调查，文档管理，沙漠数据处理等
+
+---
+
+## 经历
+
+> 在RedHat实习过，拿过红帽的证书，也在银行呆过一段时间
+
+### 蒙牛云计算中心 （ 2018年9月 ~ 2019年9月 ）
+
+#### 运维项目 
+- 在OTA平台下的面向客户部署的运维，负责应用模块部署实现
 - 基于zabbix的集群配置，日志分析，预警监控等
 - 定制化的python调用官方接口实现自定义监控项目
 - 自学Docker以及K8s在个人主机上实现运维部署
 
-<h4> 小诺星信息科技公司 （ 2017年6月 ~ 2017年9月 ）</h4>
-
-- Django CRUD使用
+#### 小诺星信息科技公司  （ 2017年6月 ~ 2017年9月 ）
+- Django，flask等 CRUD使用
 - Mysql 双热备份实现
 - Redis 数据缓存配置
-- Celery 的简单理解与适用
+- Celery 的简单理解与使用
 
-<h3>项目经历</h3>
-<hr/>
+> 整体对我个人代码以及一些架构设计水平的提升是很大的，让我的运维开发水平有了显著提升，对项目开发也有了自己的一些理解和认识
 
-- 参与过tensorflow开源文档编写校对，以及中文wiki社区的近百文档编写<br>
-- 插件开发做过vscode和Firefox的<br>
-- 搭建过私人博客，懂计算机网络基本知识，会配置 Apache、MySQL 、Redis 等及简单集群搭建。<br>
-- 数据结构扎实，算法学了一些，ACM主力军，刷过Leetcode和一些如杭电的ACM网站，一般有思路半小时解决，没思路就慢慢磕。<br>
-- 使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等小玩意。<br>
-- 写过分布式爬虫，一般网站都能爬 ，后来基于Celery做过一个爬虫框架<br>
+---
 
-<h3>获奖情况</h3>
-<hr/>
+### 开源项目和作品
 
-> ps:获奖情况的话全国3个， 省级7个，校级太多了不算，工程做过一些，接过3个外包(签了合同的)。以下简略，详情查看个人主页
+##### 开源项目
 
-- ACM 东北四省二等奖(2017),内蒙古自治区一等奖(2017)
-- 全国程序设计竞赛二等奖(2018)
-- 赛百特杯全国创新创业二等奖(76/1000，2018)
+ - [Shadowsocks](http://github.com/shadowsocks/shadowsocks)：Shadowsocks参与代码的开发及设计讨论
+ - [MyDoOS](https://github.com/gaoljhy/MyDoOS)：基于树莓派3b+的ARM板子做的一个课程设计OS
+ - [QQImitate](https://github.com/gaoljhy/QQImitate)：设计模仿QQ实现一款通讯软件，课程设计
+ 
+ > 还有一些高start的项目提交过不少代码，个人认为没有什么技术含量就不再这里放置，需要可以查看我的代码提交
